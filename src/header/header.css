@@ -1,0 +1,12 @@
+.bgBlack{
+  background-color: rgba(0, 0, 0, 0.774);
+  width:100vw;
+  height: 9vh;
+  color:white;
+  display: flex;
+  justify-content:flex-start;
+  align-items:center;
+}
+.bgGray{
+  background-color: rgb(112, 112, 112);
+}
